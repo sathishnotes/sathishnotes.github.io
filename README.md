@@ -1,1 +1,0 @@
-# sathishnotes.github.io
