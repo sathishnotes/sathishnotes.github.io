@@ -3,20 +3,137 @@
 	<channel>
 		<title></title>
 		<description>Welcome to my blog Friends ! You can read all my blogs here with respect to Technology, Education, and of course My Projects &amp; Learnings.</description>		
-		<link>https://sathishnotes.github.io/</link>
-		<atom:link href="https://sathishnotes.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>A Quick Review on Online Programming Websites</title>
-				<description>&lt;p&gt;There are quite a lot of companies in existence which are competing with one another in :&lt;/p&gt;
+				<title>AI Defined</title>
+				<description>&lt;p&gt;There are more interconnected field of studies in Computer Science which are often misunderstood like Artificial Intelligence, Robotics, Machine Learning, Data Science, Deep Learning, etc.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* Providing a platform for recruiting essential candidates for a position
-* Serving as a reference guide for learning different programming essential tracks
-* Delivering a readily available contest hosting platform with pre-built problems &amp;amp; detailed analysis of the candidates taken the contest
-* and much more.
+&lt;p&gt;Definitions of Artificial Intelligence from &lt;a href=&quot;https://www.elementsofai.com/&quot;&gt;ElementsOfAI&lt;/a&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* cool things that computers can't do
+* machines imitating intelligent human behavior
+* autonomous and adaptive systems
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Who are they&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Let me also make one of my own definition for AI:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;AI is a field of study in Computer Science which involves giving machines
+“human intelligence” with the help of sub-fields like machine-learning, deep-learning, data-science, etc.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Go through the following examples from &lt;a href=&quot;https://www.elementsofai.com/&quot;&gt;ElementsOfAI&lt;/a&gt; which I believe help you to get a clear idea about Which are AI and Which are not ?&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Is an AI&lt;/th&gt;
+      &lt;th&gt;Not an AI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Predicting the stock market by fitting a curve to past data about stock prices&lt;/td&gt;
+      &lt;td&gt;Spreadsheet that calcualtes sums and other pre-defined functions on given data&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;A GPS navigation system for finding the fastest route&lt;/td&gt;
+      &lt;td&gt;Big data storage solutions that can store huge amounts of data (such as images or video) and stream them to many users at the same time&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;A music recommendation system such as Spotify that suggests music based on the user’s listening behavior&lt;/td&gt;
+      &lt;td&gt;Photo editing features such as brightness and contrast in applications such as Photoshop&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Style transfer filters in applications suuch as Prisma that take a photo and transform it into different art styles (impressionist, cubist, …)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Machine Learning:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Systems that improve their performance in a given task with more and more experience or data.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Data Science:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Includes Machine Learning and Statistics, &amp;amp; certain aspects of computer science including algorithms, data storage,
+and Web application development.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Robotics:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Building and programming robots so that they can operate in complex, real-world scenarios.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Statistics:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Practice or science of collecting and analysing numerical data in large quantities, especially for the purpose of
+inferring proportions in a whole from those in a representative sample.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;See the following table to see for yourselves the &lt;code class=&quot;highlighter-rouge&quot;&gt;real-world examples&lt;/code&gt; of Statistics, Robotics, Machine Learning, etc from &lt;a href=&quot;https://www.elementsofai.com/&quot;&gt;ElementsOfAI&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Example&lt;/th&gt;
+      &lt;th&gt;Statistics&lt;/th&gt;
+      &lt;th&gt;Robotics&lt;/th&gt;
+      &lt;th&gt;Machine Learning&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Autonomous cars apply a wide range of techniques to function. These include statistics, robotics, and machine learning.&lt;/td&gt;
+      &lt;td&gt;YES&lt;/td&gt;
+      &lt;td&gt;YES&lt;/td&gt;
+      &lt;td&gt;YES&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Steering a rocket into orbit&lt;/td&gt;
+      &lt;td&gt;NO&lt;/td&gt;
+      &lt;td&gt;YES&lt;/td&gt;
+      &lt;td&gt;NO&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Online ad Optimization&lt;/td&gt;
+      &lt;td&gt;YES&lt;/td&gt;
+      &lt;td&gt;NO&lt;/td&gt;
+      &lt;td&gt;YES&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Customer service chatbot&lt;/td&gt;
+      &lt;td&gt;NO&lt;/td&gt;
+      &lt;td&gt;NO&lt;/td&gt;
+      &lt;td&gt;YES&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Summarizing gallup results&lt;/td&gt;
+      &lt;td&gt;YES&lt;/td&gt;
+      &lt;td&gt;NO&lt;/td&gt;
+      &lt;td&gt;NO&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+				<pubDate>Mon, 13 Aug 2018 16:03:00 +0530</pubDate>
+				<link>http://localhost:4000/jekyll/update/ai-defined/</link>
+				<guid isPermaLink="true">http://localhost:4000/jekyll/update/ai-defined/</guid>
+			</item>
+		
+			<item>
+				<title>Online Programming - Learning &amp; Practice</title>
+				<description>&lt;p&gt;There are quite a lot websites which provides way to &lt;code class=&quot;highlighter-rouge&quot;&gt;learn yourselves &amp;amp; practice&lt;/code&gt; what you’ve learned and even there is a possibility of &lt;code class=&quot;highlighter-rouge&quot;&gt;GETTING HIRED !&lt;/code&gt; in the companies that host the hiring challenges in these websites.&lt;/p&gt;
+
+&lt;p&gt;Some of the websites to start with are :&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* HackerRank
 * HackerEarth
@@ -28,11 +145,16 @@
 * CodeChef
 * CodeForces
 * TopCoder
+* GeeksForGeeks
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;There are even &lt;code class=&quot;highlighter-rouge&quot;&gt;self-paced learning tracks&lt;/code&gt; designed specifically for cracking Coding Interviews &amp;amp; getting expertised is of great value I would say.Speaking of learning tracks, don’t miss to check out &lt;code class=&quot;highlighter-rouge&quot;&gt;Interview Preparation Kit @ HackerRank&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;CodeMonk @ HackerEarth&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some provide certifications too. Like &lt;code class=&quot;highlighter-rouge&quot;&gt;CCDSAP Certification @ CodeChef&lt;/code&gt;, which is considered to be a great value to programmers.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 06 Aug 2018 22:30:40 +0530</pubDate>
-				<link>http://localhost:4000/jekyll/update/a-quick-review-on-online-programming-websites/</link>
-				<guid isPermaLink="true">https://sathishnotes.github.io/jekyll/update/a-quick-review-on-online-programming-websites/</guid>
+				<link>http://localhost:4000/jekyll/update/online-programming-learning-practice/</link>
+				<guid isPermaLink="true">http://localhost:4000/jekyll/update/online-programming-learning-practice/</guid>
 			</item>
 		
 			<item>
@@ -51,8 +173,8 @@
     &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Thank you&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
 				<pubDate>Mon, 06 Aug 2018 20:16:40 +0530</pubDate>
-				<link>https://sathishnotes.github.io/jekyll/update/welcome-to-sathish-notes/</link>
-				<guid isPermaLink="true">https://sathishnotes.github.io/jekyll/update/welcome-to-sathish-notes/</guid>
+				<link>http://localhost:4000/jekyll/update/welcome-to-sathish-notes/</link>
+				<guid isPermaLink="true">http://localhost:4000/jekyll/update/welcome-to-sathish-notes/</guid>
 			</item>
 		
 	</channel>
