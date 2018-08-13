@@ -5,7 +5,7 @@ date:   2018-08-13 16:03:00 +0530
 categories: jekyll update
 ---
     
-There are more interconnected field of studies in Computer Science which are often misunderstood like Artificial Intelligence, Robotics, Machine Learning, Data Science, Deep Learning, etc.
+There are more interconnected field of studies in Computer Science which are often misunderstood like `Artificial Intelligence`, `Robotics`, `Machine Learning`, `Data Science`, `Deep Learning`, etc.
 
 Definitions of Artificial Intelligence from [ElementsOfAI](https://www.elementsofai.com/):
 
@@ -27,26 +27,25 @@ A GPS navigation system for finding the fastest route | Big data storage solutio
 A music recommendation system such as Spotify that suggests music based on the user's listening behavior | Photo editing features such as brightness and contrast in applications such as Photoshop
 Style transfer filters in applications suuch as Prisma that take a photo and transform it into different art styles (impressionist, cubist, ...) | 
 
-
-Machine Learning: 
+**Machine Learning**: 
 
 >Systems that improve their performance in a given task with more and more experience or data.
 
-Data Science:
+**Data Science**:
 
 >Includes Machine Learning and Statistics, & certain aspects of computer science including algorithms, data storage,
 >and Web application development.
 
-Robotics:
+**Robotics**:
 
 >Building and programming robots so that they can operate in complex, real-world scenarios.
 
-Statistics:
+**Statistics**:
 
 >The Practice or science of collecting and analysing numerical data in large quantities, especially for the purpose of
 >inferring proportions in a whole from those in a representative sample.
 
-See the following table to see for yourselves the `real-world examples` of Statistics, Robotics, Machine Learning, etc from [ElementsOfAI](https://www.elementsofai.com/). 
+See the following table to see for yourselves the `real-world examples` of `Statistics`, `Robotics`, `Machine Learning`, etc from [ElementsOfAI](https://www.elementsofai.com/). 
 
 Example | Statistics | Robotics | Machine Learning
 ------------ | ------------ | ------------- | -------------

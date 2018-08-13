@@ -8,7 +8,7 @@
 		
 			<item>
 				<title>AI Defined</title>
-				<description>&lt;p&gt;There are more interconnected field of studies in Computer Science which are often misunderstood like Artificial Intelligence, Robotics, Machine Learning, Data Science, Deep Learning, etc.&lt;/p&gt;
+				<description>&lt;p&gt;There are more interconnected field of studies in Computer Science which are often misunderstood like &lt;code class=&quot;highlighter-rouge&quot;&gt;Artificial Intelligence&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Robotics&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Machine Learning&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Data Science&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Deep Learning&lt;/code&gt;, etc.&lt;/p&gt;
 
 &lt;p&gt;Definitions of Artificial Intelligence from &lt;a href=&quot;https://www.elementsofai.com/&quot;&gt;ElementsOfAI&lt;/a&gt;:&lt;/p&gt;
 
@@ -53,33 +53,33 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Machine Learning:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Systems that improve their performance in a given task with more and more experience or data.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Data Science:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Data Science&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Includes Machine Learning and Statistics, &amp;amp; certain aspects of computer science including algorithms, data storage,
 and Web application development.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Robotics:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Robotics&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Building and programming robots so that they can operate in complex, real-world scenarios.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Statistics:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Statistics&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The Practice or science of collecting and analysing numerical data in large quantities, especially for the purpose of
 inferring proportions in a whole from those in a representative sample.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;See the following table to see for yourselves the &lt;code class=&quot;highlighter-rouge&quot;&gt;real-world examples&lt;/code&gt; of Statistics, Robotics, Machine Learning, etc from &lt;a href=&quot;https://www.elementsofai.com/&quot;&gt;ElementsOfAI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;See the following table to see for yourselves the &lt;code class=&quot;highlighter-rouge&quot;&gt;real-world examples&lt;/code&gt; of &lt;code class=&quot;highlighter-rouge&quot;&gt;Statistics&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Robotics&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Machine Learning&lt;/code&gt;, etc from &lt;a href=&quot;https://www.elementsofai.com/&quot;&gt;ElementsOfAI&lt;/a&gt;.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
