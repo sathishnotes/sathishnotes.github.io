@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Data Visualization is So Important ?"
+title:  "Why Data Visualization is Important ?"
 date:   2019-03-16 10:44:00 +0530
 categories: jekyll update
 ---
@@ -33,7 +33,7 @@ Look at the data of `car's engine size` (*in litres*) and the `car's fuel effici
 
 ![alt text](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/hwy.png "Fuel Efficiency")
 
-Look at the visualization of the data posted above :
+`Look at the visualization of the data posted below` :
 
 ![alt text](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/plot.png "Plot Engine Size Vs Fuel Efficiency")
 
@@ -43,4 +43,4 @@ Maybe you're wondering that there are certain points in the graph which are not 
 
 ![alt text](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/class.png "Plot Engine Size Vs Fuel Efficiency with reference to Class")
 
-Those which does not follow the relationship are found to be the red ones (2 seater class cars). Those points are called as "outliers", which I will not be discussing in this post. But I guess I made you clear about `why the data visualization is so important`. Looking at the raw data doesn't gives us anything rather looking at a visualization (in most of the cases) would probably tells us something about the `variables` and their `distribution`. Often times, the data visualization itself tells us `the whole story for some analytical questions`.
+Those which does not follow the relationship are found to be the red ones (2 seater class cars). Those points are called as "outliers", which I will not be discussing in this post. But I guess I made my point clear. Looking at the raw data doesn't gives us anything rather looking at a visualization (in most of the cases) would probably tells us something about the `variables` and their `distribution` & `relationship`. Often times, the data visualization itself tells us `the whole story in most of the analytical questions`.
