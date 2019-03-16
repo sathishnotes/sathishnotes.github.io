@@ -39,10 +39,8 @@ Look at the visualization of the data posted above :
 
 Does the image tells anything ? Yes it does. It tells us that: `Mileage drops as the engine size increases` and `there is a negative relationship between mileage and the engine size of the cars`
 
-Looking at the raw data doesn't gives us anything rather looking at a visualization (in most of the cases) would probably tells us something about the `variables` and their `distribution`. Often times, the data visualization itself tells us `the whole story of some analytical questions`.
-
 Maybe you're wondering that there are certain points in the graph which are not obeying the negative relationship hypothesized by us. This can also be explained with data visualization in no matter of time.
 
 ![alt text](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/class.png "Plot Engine Size Vs Fuel Efficiency with reference to Class")
 
-Those which does not follow the relationship are found to be the red ones (2 seater class cars). Those points are called as "outliers", which I will not be discussing in this post. But I guess I made you clear about `why the data visualization is so important`.
+Those which does not follow the relationship are found to be the red ones (2 seater class cars). Those points are called as "outliers", which I will not be discussing in this post. But I guess I made you clear about `why the data visualization is so important`. Looking at the raw data doesn't gives us anything rather looking at a visualization (in most of the cases) would probably tells us something about the `variables` and their `distribution`. Often times, the data visualization itself tells us `the whole story for some analytical questions`.
