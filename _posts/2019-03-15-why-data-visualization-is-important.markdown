@@ -5,7 +5,7 @@ date:   2019-03-16 10:44:00 +0530
 categories: jekyll update
 ---
 
-Let me start with the definition of Data Science.
+`Definition of Data Science from Hadley Wickam and Garrett Grolemund :`
 
 > DataScience is an exciting discipline that allows you to turn raw data into understanding,
 > insight, and knowledge. - *Hadley Wickam and Garrett Grolemund*
