@@ -5,10 +5,12 @@ date:   2019-03-16 10:44:00 +0530
 categories: jekyll update
 ---
 
+Let me start with the definition of Data Science.
+
 > DataScience is an exciting discipline that allows you to turn raw data into understanding,
 > insight, and knowledge. - *Hadley Wickam and Garrett Grolemund*
 
-`insight` part is carried out as `Data Visualization`. The Data Visualization can be achieved using any tools like `R`, `Python`, `Excel`, etc.
+In the definition stated above, the `insight` part generally carried out by `Data Visualization`. The Data Visualization can be achieved using any tools like `R`, `Python`, `Excel`, etc.
 
 It doesn't matter what tool you're using but visualizing in such a way that it exhibits a clear understanding of :
 - How the data is distributed (in case of single variable plots)
@@ -23,22 +25,24 @@ Consider the following data frame containing observations collected by the `US E
 Now Let's see if you can answer this question :
 >Will the mileage of a car increases or decreases if the engine size of a car increases ?
 
-Probably out of experience, the best guess would be : "The mileage drops as the size of the engine increases." but does this 234 car's data tells the same ?
+Probably out of experience, the best guess would be : `"The mileage drops as the size of the engine increases."` but does this *dataset hypothesize the same* ? Let's find out.
 
-Look at the data of car's engine size (in litres) and the car's fuel efficiency (in miles per gallon). Does it tell anything ?
+Look at the data of `car's engine size` (*in litres*) and the `car's fuel efficiency` (*in miles per gallon*). Does it tell anything ?
 
 ![alt text](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/displ.png "Engine Size")
 
 ![alt text](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/hwy.png "Fuel Efficiency")
 
-Look at the visualization now :
+Look at the visualization of the data posted above :
 
 ![alt text](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/plot.png "Plot Engine Size Vs Fuel Efficiency")
 
-Does the image tells anything ? Yes it does. It tells us that: `Mileage drops as the engine size increases` and `there is a negative relationship between mileage and the engine size of the cars` but there are outliers which doesn't obey this conclusion. Those outliers which doesn't follow the relationship can be seen clearly from the following visualization.
+Does the image tells anything ? Yes it does. It tells us that: `Mileage drops as the engine size increases` and `there is a negative relationship between mileage and the engine size of the cars`
+
+Looking at the raw data doesn't gives us anything rather looking at a visualization (in most of the cases) would probably tells us something about the `variables` and their `distribution`. Often times, the data visualization itself tells us `the whole story of some analytical questions`.
+
+Maybe you're wondering that there are certain points in the graph which are not obeying the negative relationship hypothesized by us. This can also be explained with data visualization in no matter of time.
 
 ![alt text](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/class.png "Plot Engine Size Vs Fuel Efficiency with reference to Class")
 
-Those which does not follow the relationship are found to be the red ones (2 seater class cars). I finally close the post with the saying
-
-> “The simple graph has brought more information to the data analyst’s mind than any other device.” — John Tukey
+Those which does not follow the relationship are found to be the red ones (2 seater class cars). Those points are called as "outliers", which I will not be discussing in this post. But I guess I made you clear about `why the data visualization is so important`.
