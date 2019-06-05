@@ -8,22 +8,23 @@ categories: jekyll update
 ## 1. Introduction:
 
 ### 1.1 Background :
-      Opening a Restuarant and running it successfull, is not a simple endeavour. There are quite lot of things one have to brainstorm before opening a restaurant like target customers, frequency of the customers, parking facility, ambient environment, signature dishes, competitors,etc. It would be a business savy for restaurant owners to get places to open their restaurants which answers several questions like:
-            a. Number of restaurants within 1000 meters from a place
-            b. Type of restaurants within 1000 meters from a place
-            c. Ratings and Reviews of restaurants
-            d. What are the popular venues within 1000 meters from that place ?
+Opening a Restuarant and running it successfull, is not a simple endeavour. There are quite lot of things one have to brainstorm before opening a restaurant like target customers, frequency of the customers, parking facility, ambient environment, signature dishes, competitors,etc. It would be a business savy for restaurant owners to get places to open their restaurants which answers several questions like:
+
+a. Number of restaurants within 1000 meters from a place
+b. Type of restaurants within 1000 meters from a place
+c. Ratings and Reviews of restaurants
+d. What are the popular venues within 1000 meters from that place ?
 
 ### 1.2 Business Problem :
-        This project aims to solve the following research question : "In Coimbatore City, if someone is looking to open a restaurant, where would we recommend that they open it?
+This project aims to solve the following research question : "In Coimbatore City, if someone is looking to open a restaurant, where would we recommend that they open it?
 
 ### 1.3 Interest :
-      Restaurant owners or Entrepreuners would be interested to get to know a likely place within Coimbatore City to open a restaurant.
+Restaurant owners or Entrepreuners would be interested to get to know a likely place within Coimbatore City to open a restaurant.
 
 ## 2. Data
 
 ### 2.1 Data Sources :
-      Targeting Coimbatore city, we will be requiring all the localities within Coimbaotore city. Hence I searched for pincode details of Coimbatore city, which helped me to land in the following page:
+Targeting Coimbatore city, we will be requiring all the localities within Coimbaotore city. Hence I searched for pincode details of Coimbatore city, which helped me to land in the following page:
 
 `https://www.mapsofindia.com/pincode/india/tamil-nadu/coimbatore/`
 
@@ -52,7 +53,7 @@ Example DataFrame from FourSquare API:
 
 ### 2.2 Data Cleaning
 
-	Initially “Coimbatore” pincodes were extracted as table using Beautiful Soup and Python requests library. Then, using geocoders, latitude and longitude coordinates have been found for all the locations in Coimbatore. But for some locations, latitude and longitude were not returned, for which I’ve inserted “NaN” values. In total 584 locations were there which later after removing “NaN” observations resulted in 224 locations.
+Initially “Coimbatore” pincodes were extracted as table using Beautiful Soup and Python requests library. Then, using geocoders, latitude and longitude coordinates have been found for all the locations in Coimbatore. But for some locations, latitude and longitude were not returned, for which I’ve inserted “NaN” values. In total 584 locations were there which later after removing “NaN” observations resulted in 224 locations.
 
 Using FourSquare location data API, queried for venues within a radius of 2000 meters from the latitude and longitude of the locations. In total, 1938 rows of venues were returned for 224 locations by FourSquare API.
 
@@ -91,26 +92,28 @@ Map with the clusters were plotted using folium.
 
 Most common venue (10 venues) have been derived out of the data. Individual clusters with the location venues have been reported.
 
+![](https://github.com/sathishnotes/Coursera_Capstone/raw/master/f8.png)
+
 ### 3.3 Examine Clusters
 
-![](https://github.com/sathishnotes/Coursera_Capstone/raw/master/f8.png)
+![](https://github.com/sathishnotes/Coursera_Capstone/raw/master/f9.png)
 
 ## 4. Results
 Either the invester can choose location with lesser number of restaurants as there will not be any competitors or choose a location with more number of already established restaurants and offering the facilities or ambience which the old restaurants failed to accomplish. In that case, there are two types of results presented below.
 
-![](https://github.com/sathishnotes/Coursera_Capstone/raw/master/f9.png)
+![](https://github.com/sathishnotes/Coursera_Capstone/raw/master/f11.png)
 
 The data result for the same is as follows:
 
-![](https://github.com/sathishnotes/Coursera_Capstone/raw/master/f11.png)
+![](https://github.com/sathishnotes/Coursera_Capstone/raw/master/f10.png)
 
 Locations with least number of Restaurant venues:
 
-![](https://github.com/sathishnotes/Coursera_Capstone/raw/master/f10.png)
+![](https://github.com/sathishnotes/Coursera_Capstone/raw/master/f12.png)
 
 Locations where no restaurant venues are reported:
 
-![](https://github.com/sathishnotes/Coursera_Capstone/raw/master/f12.png)
+![](https://github.com/sathishnotes/Coursera_Capstone/raw/master/f13.png)
 
 ## 5. Discussion
 There are many locations where Restaurant venue category was not reported as of FourSquare location data API. But I believe that, using Google places API and other API’s we can wrangle more Restaurant venue category data from those places. Doing analysis with more data would yield more accurate analysis I believe. Like I said before, an invester or business person or restaurant owner can take this data to see the current trend of the Restaurants in each of the locations within coimbatore as a continued analysis to improve his business and also they can use the data to open a restaurant in any of the reported places.
