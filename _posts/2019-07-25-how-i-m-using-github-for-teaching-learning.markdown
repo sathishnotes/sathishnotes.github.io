@@ -13,85 +13,84 @@ Here is the teaching-learning-evaluation process numbered from 1 to 10, which I 
 
 - __Team Creation in Github Organization Account__
 
-> Go to your organization  
+> Go to your organization <br /><br />
 
-![team creation](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/1.jpg)  
+![team creation](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/1.jpg)<br /><br />  
 
-> Create a team in your Github Organization account.  
+> Create a team in your Github Organization account.<br /><br />  
 
-![team creation](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/2.jpg)  
+![team creation](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/2.jpg)<br /><br />  
 
-![Enroll Students](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/3.jpg)  
+![Enroll Students](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/3.jpg)<br /><br />  
 
-- __Enroll Students__
+- __Enroll Students__<br /><br />
 
-> Add Student members in it  
+> Add Student members in it<br /><br />  
 
-![Enroll Students](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/4.jpg)  
+![Enroll Students](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/4.jpg)<br /><br />  
 
-- __Add Teaching Materials before Session Delivery__  
+- __Add Teaching Materials before Session Delivery__<br /><br />  
 
-> Add the repos to the team repositories with needed files to deliver the session before every session.  
+> Add the repos to the team repositories with needed files to deliver the session before every session.<br /><br />  
 
-![Add Repos](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/5.jpg)  
-
-
-- __Students Clone the Materials to follow the session__  
-
-> Students will then clone the repos to do hands-on and to follow all along the session.  
-
-![Cloning Repos](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/6.jpg)  
-
-- __Create new classroom and Distribute Assignment__  
-
-> Create new classroom in [https://classroom.github.com](https://classroom.github.com).  
-
-![Classroom Creation](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/7.jpg)  
-
-> Create Individual Assignment for every assignment  
-
-![Assignment Creation](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/8.jpg)  
-
-> and share the classroom assignment link via team discussion forum in GitHub  
-
-![Assignment Distribution](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/7-1.jpg)  
-
-- __Assignment Submission__  
-
-> Students complete their assignments and submit the assignments by pushing their assignments to the created assignment repos  
-
-![Assignment Collection](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/9.jpg)  
+![Add Repos](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/5.jpg)<br /><br />  
 
 
-- __Peer Evaluation Order__  
+- __Students Clone the Materials to follow the session__<br /><br />  
 
-> Post the Random mapping order for every assignment,Generated using R-Script for adding collaborators to each of their repos in the GitHub Team Discussions forum, so that the collaborator(student peer) can read the repository and evaluate the code in it.  
+> Students will then clone the repos to do hands-on and to follow all along the session.<br /><br />  
+
+![Cloning Repos](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/6.jpg)<br /><br />  
+
+- __Create new classroom and Distribute Assignment__<br /><br />  
+
+> Create new classroom in [https://classroom.github.com](https://classroom.github.com)<br /><br />  
+
+![Classroom Creation](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/7.jpg)<br /><br />  
+
+> Create Individual Assignment for every assignment<br /><br />  
+
+![Assignment Creation](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/8.jpg)<br /><br />  
+
+> and share the classroom assignment link via team discussion forum in GitHub<br /><br />  
+
+![Assignment Distribution](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/7-1.jpg)<br /><br />  
+
+- __Assignment Submission__<br /><br />  
+
+> Students complete their assignments and submit the assignments by pushing their assignments to the created assignment repos<br /><br />  
+
+![Assignment Collection](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/9.jpg)<br /><br />  
 
 
-![Peer Evaluation Order](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/10.jpg)    
+- __Peer Evaluation Order__<br /><br />  
+
+> Post the Random mapping order for every assignment,Generated using R-Script for adding collaborators to each of their repos in the GitHub Team Discussions forum, so that the collaborator(student peer) can read the repository and evaluate the code in it.<br /><br />  
+
+![Peer Evaluation Order](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/10.jpg)<br /><br />    
 
 
-- __Peer evaluation score entry__  
+- __Peer evaluation score entry__<br /><br />  
 
-> The evaluation score is updated via Google form, the link of which again was already posted through GitHub Team Discussions forum.  
-
-
-![Peer Evaluation](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/11.jpg)    
+> The evaluation score is updated via Google form, the link of which again was already posted through GitHub Team Discussions forum<br /><br />  
 
 
-- __Peer Evaluation Feedback__  
-
-> The students who evaluated their peer assignment, share the feedback to their peers via Team Discussions Forum.  
-
-![Peer Feedback](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/12.jpg)    
+![Peer Evaluation](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/11.jpg)<br /><br />    
 
 
-- __Assignment Report Generation__  
+- __Peer Evaluation Feedback__<br /><br />  
 
-> Generate the assignment analysis report through the excel downloaded from google form using R or Python of your choice.  
+> The students who evaluated their peer assignment, share the feedback to their peers via Team Discussions Forum<br /><br />  
+
+![Peer Feedback](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/12.jpg)<br /><br />    
 
 
-![Final Report](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/13.jpg)  
+- __Assignment Report Generation__<br /><br />  
+
+> Generate the assignment analysis report through the excel downloaded from google form using R or Python of your choice.<br /><br />  
+
+
+![Final Report](https://github.com/sathishnotes/sathishnotes.github.io/raw/master/assets/13.jpg)<br /><br />  
 
 
 **I've described the teaching-learning-evaluation process using GitHub for two reasons:**
