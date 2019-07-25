@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I'm using Github for Teaching-Learning !!"
-date:   2019-06-05 07:15:00 +0530
+date:   2019-07-25 07:15:00 +0530
 categories: jekyll update
 ---
 
